@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @areding99
-- 👀 I’m interested in Swift and Java. Once I've finished school at Gonzaga, I plan on spending time working with Javascript.
-- 🌱 I’m currently learning to use the Firebase tools suite, and to succeed at coding interviews using Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: my email, areding99@gmail.com
+## I'm Andy
+- a software engineer contracted at Meta
+- interests are currently in web development, across the stack
+- based out of London
+- can be reached at areding99@gmail.com
+
+## My stack
+- backend:
+    - typescript
+    - hacklang (php)
+    - sql
+    - java
+    - node
+    - apollo server
+    - express
+    - mikro-orm
+    - nx
+- frontend
+    - typescript
+    - react
+    - graphql clients (mostly apollo but also a bit of relay)
+    - material ui
+    - tailwind
+
 
 <!---
 areding99/areding99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
