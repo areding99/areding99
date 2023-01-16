@@ -11,9 +11,11 @@
     - sql
     - java
     - node
-    - apollo server
+    - graphql
+        - apollo server
+        - dataloader
     - express
-    - mikro-orm
+    - orm software
     - nx
 - frontend
     - typescript
