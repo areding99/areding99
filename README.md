@@ -24,7 +24,7 @@
     - IT
         - cloud (mostly via DigitalOcean)
         - docker
-        - inux server admin
+        - linux server admin
 - frontend
     - javascript
         - typescript
