@@ -1,7 +1,6 @@
 ## I'm Andy
 - a software engineer contracted at Meta
 - interested in web development
-- based out of London
 - can be reached at areding99@gmail.com
 
 ## My stack
